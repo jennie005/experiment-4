@@ -1,0 +1,12 @@
+#create a list:
+thislist=["apple","banana","cherry"]
+print(thislist)
+print("the number of items in the list")
+thislist=["apple","banana","cherry"]
+print(len(thislist))
+#print the secopnd item of tyhe list:
+thislist=["apple","banan","cherry"]
+print(thislist[1])
+#return the third,fourth,and fifth item:
+thislist=["apple","banana","cherry","orange","kiwi","melon"]
+print(thislist[2:5])
